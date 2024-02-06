@@ -1,2 +1,2 @@
 # DataScience
-all the things I have learnt while studying data science
+Few collection of my Data Science projects
